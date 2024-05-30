@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-   cout << "kiomarth";
+   cout << "\xF0\x9F\x98\x8A"<<endl;
    //water
    return 0;
 }
