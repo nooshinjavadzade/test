@@ -1,0 +1,3 @@
+C:/Users/Arshiya/CLionProjects/neogit/cmake-build-debug/CMakeFiles/neogit.dir
+C:/Users/Arshiya/CLionProjects/neogit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arshiya/CLionProjects/neogit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
