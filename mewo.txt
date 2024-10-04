@@ -1,8 +1,11 @@
-Updating 5a3a051..d6f080b
-Fast-forward
- hello.c | 8 --------
- 1 file changed, 8 deletions(-)
- delete mode 100644 hello.c
+fatal: The current branch java-version has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin java-version
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
 
 
 
