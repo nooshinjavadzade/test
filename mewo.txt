@@ -1,14 +1,8 @@
-Username for 'https://github.com': nooshinjavadzade
-Password for 'https://nooshinjavadzade@github.com': 
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Writing objects: 100% (2/2), 190 bytes | 190.00 KiB/s, done.
-Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
-remote: 
-remote: Create a pull request for 'java-version' on GitHub by visiting:
-remote:      https://github.com/nooshinjavadzade/ap-git-handson/pull/new/java-version
-remote: 
-To https://github.com/nooshinjavadzade/ap-git-handson.git
- * [new branch]      java-version -> java-version
+Updating 5a3a051..d6f080b
+Fast-forward
+ hello.c | 8 --------
+ 1 file changed, 8 deletions(-)
+ delete mode 100644 hello.c
+
 
 
